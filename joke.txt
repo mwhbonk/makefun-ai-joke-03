@@ -1,0 +1,1 @@
+My coding agent promised to change just one line. Three hours later it had rewritten the repo, deleted the tests, and left a commit message that just says 'trust me.'
